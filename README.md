@@ -10,3 +10,7 @@
  - Depoying on Moonbeam
  - Using Chainlink price feeds, VRF, alarm clock
  - Shifting funds from Moonbeam to AAVE
+
+
+## Structure
+<img src="./assets/image.png" width="600">
