@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![Website https://hodltogether.on.fleek.co/](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://hodltogether.on.fleek.co/) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-<img width="1000" src="./images/HodlTogether-Logo-3-final.png">
+<img width="1000" src="./images/HodlTogether-Logo-final.png">
 
 # _Welcome to the COOLEST Defi+NFT Hodling Pool!_
 
