@@ -12,9 +12,6 @@
 <img src="./images/the-graph-trans-2.png">
 </p>
 
-# Demo Video
-[![](http://img.youtube.com/vi/OnuRyRf4ymI/0.jpg)](http://www.youtube.com/watch?v=OnuRyRf4ymI "HodlTogether-Demo-Video")
-
 # Introduction
 We introduce you to the __coolest community hodling pool__ on Ethereum- HodlTogether, which is a spicy amalgamation of the __Defi__, __NFTs__ and __NGOs__. HodlTogether uniquely incentivizes the users to Hodl their tokens which can be of any type such as LINK, ZRX, BAT, SRX, etc. for a long period of time. By doing so, they also contribute to the betterment of society and community development, as they donate a certain amount of their Hodled tokens to the NGO associated with the Hodling pool.
 
@@ -47,7 +44,11 @@ So, the private pools gives the users the ability to create a personal pool whic
 
 ## When does the pool break?
 The public pools break i.e. get closed when the token in the pool reaches its all time high or when it reaches its week's highest price. In case of private pools, the creator of the pool himself sets the price point of when the pool should break. So he needs to be careful in choosing the right price when he thinks the pool should break as setting this value too high can result in the  pools never breaking. The token rewards are freely distributed amongst the participants without any withdrawal fee only after the pools breaks.
+
 ## Repositories
  Here are the github repo links for front-end and smart contracts of our project.
  - [Smart contracts](https://github.com/chainGers-2021/our-contracts)
  - [Front-end client](https://github.com/chainGers-2021/frontend-client)
+
+# Demo Video
+[![](http://img.youtube.com/vi/OnuRyRf4ymI/0.jpg)](http://www.youtube.com/watch?v=OnuRyRf4ymI "HodlTogether-Demo-Video")
