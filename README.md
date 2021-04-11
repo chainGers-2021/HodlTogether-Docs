@@ -49,6 +49,8 @@ The public pools break i.e. get closed when the token in the pool reaches its al
  Here are the github repo links for front-end and smart contracts of our project.
  - [Smart contracts](https://github.com/chainGers-2021/our-contracts)
  - [Front-end client](https://github.com/chainGers-2021/frontend-client)
+ - [The Graph Sub-Graph](https://github.com/chainGers-2021/baby-shark)
+ - [NFT-Handler and Chainlink Node](https://github.com/chainGers-2021/nft-handler)
 
 # Demo Video
 [![](http://img.youtube.com/vi/OnuRyRf4ymI/0.jpg)](http://www.youtube.com/watch?v=OnuRyRf4ymI "HodlTogether-Demo-Video")
