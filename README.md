@@ -9,7 +9,7 @@
 <img src="./images/aave-final-trans.png">
 <img src="./images/chainlink-final-trans.png">
 <a href="https://thegraph.com/" >
-<img src="./images/the-graph-trans.png">
+<img src="./images/the-graph-trans-2.png">
 </p>
 
 # Introduction
