@@ -13,9 +13,7 @@
 </p>
 
 # Demo Video
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=OnuRyRf4ymI" type="video/mp4">
-</video>
+[![](http://img.youtube.com/vi/OnuRyRf4ymI/0.jpg)](http://www.youtube.com/watch?v=OnuRyRf4ymI "HodlTogether-Demo-Video")
 
 # Introduction
 We introduce you to the __coolest community hodling pool__ on Ethereum- HodlTogether, which is a spicy amalgamation of the __Defi__, __NFTs__ and __NGOs__. HodlTogether uniquely incentivizes the users to Hodl their tokens which can be of any type such as LINK, ZRX, BAT, SRX, etc. for a long period of time. By doing so, they also contribute to the betterment of society and community development, as they donate a certain amount of their Hodled tokens to the NGO associated with the Hodling pool.
